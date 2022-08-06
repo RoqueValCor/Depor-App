@@ -4,4 +4,5 @@
  APP de bajos recursos compatible con terminales android de 32 y 64 bits.
  ## ATENCIÓN
   ¡no disponible en IOS (Apple)!
-  ### Cualquier duda o cuestion puedes enviar un correo electronico a roquevalcor@gmail.com
+  ### Cualquier duda o cuestion
+  puedes enviar un correo electronico a roquevalcor@gmail.com
